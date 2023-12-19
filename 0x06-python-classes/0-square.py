@@ -2,6 +2,6 @@
 """square module"""
 
 
-class Square(object):
+class Square:
 	"""Define a square"""
 	pass

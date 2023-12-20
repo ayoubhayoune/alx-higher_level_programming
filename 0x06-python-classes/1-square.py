@@ -3,12 +3,12 @@
 
 
 class Square:
-    """Define a square."""
+    """Defines a square."""
 
     def __init__(self, size):
-	"""Constructor.
+        """Constructor.
 
-	Args:
-		size: lentgh of side of the square.
-	"""
+        Args:
+            size: length of a side of the square.
+        """
         self.__size = size

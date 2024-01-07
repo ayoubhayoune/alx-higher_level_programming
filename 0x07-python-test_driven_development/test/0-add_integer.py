@@ -1,6 +1,4 @@
-#!/usr/bin/python3
-"""
-This is the "0-add_integer" module.
+s is the "0-add_integer" module.
 The 0-add_integer module supplies one function, add_integer(). For example,
 >>> add_integer(10, 12)
 """
